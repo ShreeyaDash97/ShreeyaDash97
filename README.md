@@ -1,7 +1,7 @@
 ![MasterHead](https://static.vecteezy.com/system/resources/previews/002/280/240/non_2x/data-analysis-banner-vector.jpg)
 <h1 align="center">Hi 👋, I'm Shreeya Dash</h1>
 <h3 align="center">🔹Passionate about extracting insights from data and building data-driven solutions.</h3>
-<img align ="center" alt="Coding" width = "400" src ="https://camo.githubusercontent.com/35aa9b954c497d828dc2aef968a4569f0abe01a368710558babc0d575d44f257/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f73656c66706f7274726169742e676966"/>
+<img align ="right" alt="Coding" width = "400" src ="https://camo.githubusercontent.com/35aa9b954c497d828dc2aef968a4569f0abe01a368710558babc0d575d44f257/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f73656c66706f7274726169742e676966">
 
 - 🔭 I’m currently working on **NYC Taxi Fare Prediction**
 
